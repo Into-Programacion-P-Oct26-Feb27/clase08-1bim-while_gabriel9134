@@ -11,7 +11,7 @@ public class Ejemplo051 {
         Scanner entrada = new Scanner(System.in);
         entrada.useLocale(Locale.US);
 
-        int limite = 4;
+        int limite = 3;
         int contador = 1;
         double suma_total = 0;
 
